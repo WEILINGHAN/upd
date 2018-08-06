@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\bin\Debug\testapp.exe.config
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\bin\Debug\testapp.exe
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\bin\Debug\testapp.pdb
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\obj\Debug\testapp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\obj\Debug\testapp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\obj\Debug\testapp.exe
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\obj\Debug\testapp.pdb
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\obj\Debug\testapp.Form1.resources
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\bin\Debug\sharpupdate.dll
+C:\Users\Administrator\Desktop\进度表\sharpupdate\testapp\bin\Debug\sharpupdate.pdb

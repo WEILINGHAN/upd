@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\进度表\sharpupdate\sharpupdate\bin\Debug\sharpupdate.dll
+C:\Users\Administrator\Desktop\进度表\sharpupdate\sharpupdate\bin\Debug\sharpupdate.pdb
+C:\Users\Administrator\Desktop\进度表\sharpupdate\sharpupdate\obj\Debug\sharpupdate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\进度表\sharpupdate\sharpupdate\obj\Debug\sharpupdate.dll
+C:\Users\Administrator\Desktop\进度表\sharpupdate\sharpupdate\obj\Debug\sharpupdate.pdb
